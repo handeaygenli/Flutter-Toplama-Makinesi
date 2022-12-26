@@ -18,7 +18,6 @@ class _AnaSayfaState extends State<AnaSayfa> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.orangeAccent,
-      //resizeToAvoidBottomInset: false,
       appBar: AppBar(
         title: Text("Toplama Makinesi"),
         titleTextStyle: TextStyle(
